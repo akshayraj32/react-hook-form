@@ -85,7 +85,7 @@ function App() {
 
 ## Sponsors
 
-Want your logo here? [DM on Twitter](https://twitter.com/HookForm)
+Do you want your logo here? [DM on Twitter](https://twitter.com/HookForm)
 
 ## Backers
 
